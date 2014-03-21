@@ -1,5 +1,8 @@
-README - Wordpress' Visual Form Builder Pro integration with SalesForce's Web to Lead
-======================
+README
+======
+
+Wordpress' Visual Form Builder Pro integration with SalesForce's Web to Lead
+--------------------------------
 
 - **CMS:** WordPress
 - **Plugin:** Visual Form Builder Pro
