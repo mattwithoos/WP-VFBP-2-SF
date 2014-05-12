@@ -9,6 +9,7 @@ Wordpress' Visual Form Builder Pro integration with SalesForce's Web to Lead
 - **For:** SalesForce integration with WordPress / Visual Form Builder Pro
 - **Author:** Matt Withoos
 - **Author URI:** http://mattwithoos.com
+- **Credits:** Collabforge Pty Ltd (http://www.collabforge.com)
 - **Description:** This function script allows you to integrate your Visual Form Builder Pro forms on Wordpress with SalesForce's Web to Lead. It was originally written for a client and is now available as an open-source contribution.
 - **Version:** 1.0
 - **License:** GNU General Public License v2 or later
